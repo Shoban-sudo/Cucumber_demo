@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-27T22:31:01 IST" name="Default suite" finished-at="2020-09-27T22:36:37 IST" duration-ms="336156">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runnerclass.run@625732]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2020-09-27T22:31:01 IST" name="Default test" finished-at="2020-09-27T22:36:37 IST" duration-ms="336156">
+      <class name="Runnerclass.run">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:Runnerclass.run@625732]" started-at="2020-09-27T22:31:01 IST" name="setUpClass" finished-at="2020-09-27T22:31:01 IST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runnerclass.run@625732]" started-at="2020-09-27T22:31:01 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-09-27T22:32:08 IST" duration-ms="66311" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Create post test"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create post functionality testing"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runnerclass.run@625732]" started-at="2020-09-27T22:32:08 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-09-27T22:33:08 IST" duration-ms="60645" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Create post empty test"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create post functionality testing"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runnerclass.run@625732]" started-at="2020-09-27T22:33:08 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-09-27T22:33:44 IST" duration-ms="35497" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test Using Valid login Credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Functionality of baeroad application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runnerclass.run@625732]" started-at="2020-09-27T22:33:44 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-09-27T22:34:09 IST" duration-ms="25099" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test Using InValid login Credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Functionality of baeroad application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runnerclass.run@625732]" started-at="2020-09-27T22:34:09 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-09-27T22:34:37 IST" duration-ms="28088" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test Using InValid login Credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Functionality of baeroad application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runnerclass.run@625732]" started-at="2020-09-27T22:34:37 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-09-27T22:35:13 IST" duration-ms="36375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test Using InValid login Credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Functionality of baeroad application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runnerclass.run@625732]" started-at="2020-09-27T22:35:13 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-09-27T22:35:47 IST" duration-ms="33559" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test Using InValid login Credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Functionality of baeroad application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runnerclass.run@625732]" started-at="2020-09-27T22:35:47 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-09-27T22:36:13 IST" duration-ms="26189" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test Using InValid login Credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Functionality of baeroad application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runnerclass.run@625732]" started-at="2020-09-27T22:36:13 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-09-27T22:36:36 IST" duration-ms="23338" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test Using InValid login Credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Functionality of baeroad application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:Runnerclass.run@625732]" started-at="2020-09-27T22:36:36 IST" name="tearDownClass" finished-at="2020-09-27T22:36:37 IST" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- Runnerclass.run -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
